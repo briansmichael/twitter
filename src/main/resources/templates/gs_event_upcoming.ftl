@@ -1,0 +1,1 @@
+Be sure to register (${hostui}) for the ground school session this coming ${dayofweek} covering ${eventtitle} #groundschool

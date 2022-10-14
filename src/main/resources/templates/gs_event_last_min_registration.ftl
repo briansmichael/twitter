@@ -1,0 +1,1 @@
+There is still time to register (${hostui}) for the ground school session on ${dayofweek} covering ${eventtitle} #groundschool
